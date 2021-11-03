@@ -1,0 +1,51 @@
+novelvolume.com
+bqg330.com
+accessnovel.com
+novelrecorder.com
+noveldatabase.com
+ddwxxs.com
+
+800txt  600book
+
+GS账号名	crunchy@cnboy.org
+Apple ID	crunchy@cnboy.org
+Apple ID 初始密码	aNcfb67C
+Apple ID 验证码	'589823'（如需要：建议保存，以便不时之需）
+
+#=============================================#
+# ---公网地址---
+# Web URL: http://209.90.225.226/qaNJbsL50Hou
+# Web URL: https://209.90.225.226/qaNJbsL50Hou
+# ---账号密码---
+# Username: admin
+# Password: R1n8uRPRTOk1xpTNP1
+
+rclone copy /home/admin/qbittorrent/download/JAV* gdi:jav --transfers 32 -P
+
+bash <(curl -sL https://s.hijk.art/v2ray.sh)
+
+https://haoduck.com/794.html
+
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+
+
+bash <(curl -s -L https://git.io/v2ray-setup.sh)
+
+
+
+甲骨文春川 152.67.215.124
+vmess://ewoidiI6ICIyIiwKInBzIjogImlwXzE1Mi42Ny4yMTUuMTI0IiwKImFkZCI6ICIxNTIuNjcuMjE1LjEyNCIsCiJwb3J0IjogIjg4ODgiLAoiaWQiOiAiOGRlZGMxNDMtMWZhMS00YTk4LTg1OWMtZTQ2Zjk3NmM2ZDNiIiwKImFpZCI6ICIwIiwKIm5ldCI6ICJ0Y3AiLAoidHlwZSI6ICJub25lIiwKImhvc3QiOiAiIiwKInBhdGgiOiAiIiwKInRscyI6ICIiCn0K
+
+
+
+
+良心 150.109.148.231
+vmess://ewoidiI6ICIyIiwKInBzIjogImlwXzE1MC4xMDkuMTQ4LjIzMSIsCiJhZGQiOiAiMTUwLjEwOS4xNDguMjMxIiwKInBvcnQiOiAiODg4OCIsCiJpZCI6ICIwM2NhMTc4Yi0yNWYzLTQ3OGQtOGVlOC04MzQ4ODdiOTQzNDYiLAoiYWlkIjogIjAiLAoibmV0IjogInRjcCIsCiJ0eXBlIjogIm5vbmUiLAoiaG9zdCI6ICIiLAoicGF0aCI6ICIiLAoidGxzIjogIiIKfQo=
+
+azure kiusd.eastasia.cloudapp.azure.com 40.83.125.224 
+
+vmess://ewoidiI6ICIyIiwKInBzIjogImlwXzQwLjgzLjEyNS4yMjQiLAoiYWRkIjogIjQwLjgzLjEyNS4yMjQiLAoicG9ydCI6ICI4ODg4IiwKImlkIjogIjYyYmQwZWZlLTgxYWUtNGJlMy1hZGQ0LWJmYmM5ODM1NmVlNyIsCiJhaWQiOiAiMCIsCiJuZXQiOiAidGNwIiwKInR5cGUiOiAibm9uZSIsCiJob3N0IjogIiIsCiJwYXRoIjogIiIsCiJ0bHMiOiAiIgp9Cg==
+
+firstbyte 194.36.178.171
+
+vmess://ewoidiI6ICIyIiwKInBzIjogImlwXzE5NC4zNi4xNzguMTcxIiwKImFkZCI6ICIxOTQuMzYuMTc4LjE3MSIsCiJwb3J0IjogIjg4ODgiLAoiaWQiOiAiYjQzMmMxYmQtMTM5Yi00YTNlLTljMjgtYWQ5NzM1OTkzMzhkIiwKImFpZCI6ICIwIiwKIm5ldCI6ICJ0Y3AiLAoidHlwZSI6ICJub25lIiwKImhvc3QiOiAiIiwKInBhdGgiOiAiIiwKInRscyI6ICIiCn0K
